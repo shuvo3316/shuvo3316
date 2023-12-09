@@ -83,16 +83,13 @@ Made Private Route
 Firebase authentication
 <br>
 
-Client side repo:
-[https://github.com/Md-ShakilHossain/dream-job-client](https://github.com/shuvo3316/car-brand-shop-client)
+Client side repo: https://github.com/shuvo3316/car-brand-shop-client
 <br>
 
-Server side repo:
-[https://github.com/Md-ShakilHossain/dream-jobs-server](https://github.com/shuvo3316/car-brand-shop-server)
+Server side repo: https://github.com/shuvo3316/car-brand-shop-server
 <br>
 
-Live link:
-[https://dream-jobs-405dc.web.app/](https://carhub-auth.web.app/)
+Live link:https://carhub-auth.web.app/
 ### Bookly
 #### Front-end Technologies:
 -React

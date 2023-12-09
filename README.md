@@ -43,6 +43,153 @@
   </a>
 </p>
 
+## Project Details
+
+### carhub
+#### Front-end Technologies:
+-React
+<br>
+-Tailwind CSS
+<br>
+
+-Flowbite
+<br>
+
+#### Back-end Technologies:
+-NodeJs
+<br>
+
+-MongoDb
+#### What I Did:
+Made a website by which people can find their desire cars
+
+<br>
+
+implemented Tab system at home page
+<br>
+
+Implemented crud operation
+<br>
+
+Used sweet alert2
+<br>
+
+Implemented modal at car checkout
+<br>
+
+Made Private Route
+<br>
+
+Firebase authentication
+<br>
+
+Client side repo:
+[https://github.com/Md-ShakilHossain/dream-job-client](https://github.com/shuvo3316/car-brand-shop-client)
+<br>
+
+Server side repo:
+[https://github.com/Md-ShakilHossain/dream-jobs-server](https://github.com/shuvo3316/car-brand-shop-server)
+<br>
+
+Live link:
+[https://dream-jobs-405dc.web.app/](https://carhub-auth.web.app/)
+### Bookly
+#### Front-end Technologies:
+-React
+<br>
+-Tailwind CSS
+<br>
+
+-Flowbite
+<br>
+Daisy Ui
+
+#### Back-end Technologies:
+-NodeJs
+<br>
+
+-MongoDb
+#### What I Did:
+Made a website by which people can find their desire books
+
+<br>
+
+implemented Tab system at home page
+<br>
+
+Implemented crud operation
+<br>
+
+Used sweet alert2
+<br>
+
+Implemented modal at car checkout
+<br>
+
+Made Private Route
+<br>
+
+Firebase authentication
+<br>
+
+Client side repo: https://github.com/shuvo3316/bookly-client
+<br>
+
+Server side repo:https://github.com/shuvo3316/bookly-server
+<br>
+
+Live link: https://bookly-auth-c4076.web.app
+### Red-Liquide
+#### Front-end Technologies:
+-React
+<br>
+-Tailwind CSS
+<br>
+
+-Flowbite
+<br>
+
+
+#### Back-end Technologies:
+-NodeJs
+<br>
+
+-MongoDb
+#### What I Did:
+Made a website by which people can find blood and can done blood
+
+<br>
+
+implemented Tab system at home page
+<br>
+
+Implemented crud operation
+<br>
+
+Used sweet alert2
+<br>
+
+any user can make  blood request
+<br>
+any user can accept  blood request and see the donation process, doner details
+<br>
+
+Made Private Route
+<br>
+
+Firebase authentication
+<br>
+
+Client side repo: https://github.com/shuvo3316/red-lequide-client
+<br>
+
+Server side repo: https://github.com/shuvo3316/red-liquide-server
+<br>
+
+Live link: https://red-liquide-auth.web.app/
+
+
+
 
 
 ## current overview

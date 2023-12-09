@@ -1,5 +1,5 @@
 
-<img align="right" src="https://visitor-badge.laobi.laobi.icu/badge?page_id=shuvo3316.shuvo3316" />
+<img align="right" src="https://export-download.canva.com/JkOUc/DAF2fHJkOUc/16/0/0001-8448038754943313196.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20231209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231209T112241Z&X-Amz-Expires=10719&X-Amz-Signature=fada9920810e2ae393a23741f3c338cbf2e9422ba08b4715ae6fa06a35f5a4f7&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Sat%2C%2009%20Dec%202023%2014%3A21%3A20%20GMT" />
 
 <h1 align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=38&duration=4000&pause=1000&color=C8337D&center=true&vCenter=true&random=false&width=500&height=100&lines=Hi+there+!%F0%9F%A4%97;I+am+Al+Nayem+Shuvo;+Jr.+Web+Developer" alt="Typing SVG" /></a>
